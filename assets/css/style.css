@@ -1,0 +1,32 @@
+a:hover,
+a:visited,
+a:active {
+        text-decoration: none;
+}
+
+a {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-size: 3em;
+        color: #4c8ba2;
+}
+
+a:hover {
+        color: #1572b6;
+}
+
+ul {
+        list-style: none;
+}
+
+body {
+        background: #1e1e1e;
+}
+
+li {
+        line-height: 4em;
+}
+
+div.container {
+        margin-top: 30px;
+}
