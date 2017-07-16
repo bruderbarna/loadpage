@@ -25,6 +25,7 @@ body {
 
 li {
         line-height: 4em;
+        letter-spacing: 0.2em;
 }
 
 div.container {
