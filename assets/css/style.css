@@ -1,3 +1,7 @@
+body {
+        font-family: 'Roboto', sans-serif;
+}
+
 a:hover,
 a:visited,
 a:active {
@@ -5,7 +9,6 @@ a:active {
 }
 
 a {
-        font-family: 'Roboto', sans-serif;
         font-weight: 700;
         font-size: 3em;
         color: #4c8ba2;
@@ -28,6 +31,14 @@ li {
         letter-spacing: 0.2em;
 }
 
-div.container {
+div.search,
+div.links {
         margin-top: 30px;
+}
+
+.form-control {
+        background: #555;
+        color: #4c8ba2;
+        font-size: 1.2em;
+        line-height: 1.2em;
 }
